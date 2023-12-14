@@ -56,8 +56,8 @@ print(solution)
 ```
 
 ## Output:
-![](<Screenshot 2023-12-14 155332.png>)
-![Alt text](<Screenshot 2023-12-14 155403.png>)
+![Screenshot 2023-12-14 155332](https://github.com/GAYATHRI-K06/LU-Decomposition/assets/145742742/1bd4cbad-cce8-4fe2-a280-10f42bd34269)
+![Screenshot 2023-12-14 155403](https://github.com/GAYATHRI-K06/LU-Decomposition/assets/145742742/2a775659-17a4-44e3-8230-90873dbdcac0)
 
 
 ## Result:
